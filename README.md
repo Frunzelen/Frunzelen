@@ -4,24 +4,21 @@
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
----
+
 <a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
                                                   width="25%"/></a>
-
-<!-- Any image aligned to the right. Beware the width
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
--->
-
 
 <a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
-
-## 👩🏻‍💻 About me
+## 
+ 👩🏻‍💻 About me 
 - Software Test Engineer with 3+ years of experience
 - Writing autotests in Python
 - I successfully completed the training QA automation in **[QA.GURU online school](https://qa.guru)** and **[Hexlet](https://ru.hexlet.io/programs/python)**
-- I like create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
+- I like create something new, so if you have tasks or a product that I could help you with, please write me ✏️
+  
+  <br>
 
 ## 🧭 Contacts
 [<img src='images/other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/elena-ter-akopova/)
