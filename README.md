@@ -23,24 +23,10 @@
 - I successfully completed the training QA automation in **[QA.GURU online school](https://qa.guru)** and **[Hexlet](https://ru.hexlet.io/programs/python)**
 - I like create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
 
-<br>
-  <b>My contacts:</b>
-  <br>
-    <a href="mailto:frunzelen@yandex.ru">
-      <img src="https://img.shields.io/badge/-Yandex-informational.svg?style=for-the-badge&logo=Yandex.Ru&logoColor=white" alt="Yandex Badge">
-    </a>
-    <a href="https://t.me/Sweet_AQA">
-      <img src="https://img.shields.io/badge/-Telegram-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-    </a>"Telegram Badge">
-    </a>
-    <a href="https://www.linkedin.com/in/elena-ter-akopova">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230078b6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-  <p align="center"><i>💬 If you have any question/feedback, please do not hesitate to reach out to me!<br>Preferred contact method is Email or Telegram.</i></p>
-</p>
-<br>
-   </div>
-</details>
+## 🧭 Contacts
+[<img src='images/other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/elena-ter-akopova/)
+[<img src='images/other/tg.png' alt='telegram' height='30'>](https://t.me/Sweet_AQA)
+[<img src='images/other/gmail.png' alt='gmail' height='30'>](mailto:frunzelen@gmail.com) 
 
 ## 🛠️ Stack and tools
 <div>
